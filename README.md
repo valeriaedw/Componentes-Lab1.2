@@ -1,2 +1,2 @@
-# Componentes-Lab1.1
-Parte 1 del Lab 1
+# Componentes-Lab1.2
+Parte 2 del Lab 1
